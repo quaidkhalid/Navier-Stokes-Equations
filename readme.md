@@ -9,7 +9,7 @@ This notebook explores various aspects of fluid dynamics through numerical simul
     *   Matplotlib
 
 You can install the libraries with the following command:
-     `bash pip install numpy matplotlib`
+     `-- bash pip install numpy matplotlib`
 
 ## How to Use
 
